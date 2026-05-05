@@ -10,6 +10,7 @@
 * ⭐ **High-Key Impact:** Member of the Circle of Distinguished Faculty (since 2023). Assistant Professor at Tec de Monterrey Campus Guadalajara.
 * 🫆 **Blueprint:** Co-creator of the Data Science and Cultural Analysis undergraduate course (2024 & 2026 versions).
 * 👾 **Lvl Up:** Specialist in active learning methodologies (PBL) and digital environments that actually work.
+* 🌏 Global Player: Architect of Global Shared Learning (GSL) experiences, designing tech-driven international collaborations that foster multicultural teamwork.
 
 ### Community
 
