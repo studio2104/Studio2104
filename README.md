@@ -8,7 +8,7 @@
 ### Education Game-Changer (Tec de Monterrey)
 
 * ⭐ **High-Key Impact:** Member of the Circle of Distinguished Faculty (since 2023). Assistant Professor at Tec de Monterrey Campus Guadalajara.
-* 🫆 **Blueprint:** Co-creator of the Data Science and Cultural Analysis undergraduate course (2024 & 2026 versions).
+* 🫆 **Blueprint:** Data Science & Cultural Analysis: Co-creator of the undergraduate course (2024 & 2026 versions). Diversity & Human Rights: Designed and updated the EH5010 graduate course for the MA in Humanistic Studies.
 * 👾 **Lvl Up:** Specialist in active learning methodologies (PBL) and digital environments that actually work.
 * 🌏 Global Player: Architect of Global Shared Learning (GSL) experiences, designing tech-driven international collaborations that foster multicultural teamwork.
 
