@@ -1,30 +1,30 @@
 # 👋 Welcome to my GitHub
 
-## Digital Vision & Tech-Humanist Era ✨
+## Digital Vision & Tech-Humanist Focus ✨
 
-📂 The edit: Digital Humanities | Gender Equality | Posthumanism | Non-human Animal Rights.
+📂 Focus areas: Digital Humanities · Gender Equality · Posthumanism · Non-human Animal Rights.
 
-💥 Current Hyperfocus: Cultural Analytics & GenAI methodologies for real-world impact projects — from classroom innovation to peer-reviewed publication (see the Lidia GPT paper below).
+💥 Current line of work: Cultural Analytics and GenAI methodologies for real-world impact projects — from classroom innovation to peer-reviewed publication (see the Lidia GPT article below).
 
-## Education Game-Changer (Tec de Monterrey)
+## Education (Tec de Monterrey)
 
-⭐ High-Key Impact: Member of the Circle of Distinguished Faculty (since 2023). Assistant Professor at Tec de Monterrey Campus Guadalajara. Certified in Digital Humanities by Universidad de los Andes.
+⭐ Recognition: Member of the Circle of Distinguished Faculty (since 2023). Assistant Professor at Tec de Monterrey, Campus Guadalajara. Certified in Digital Humanities by Universidad de los Andes.
 
-🫆 Blueprint: Data Science & Cultural Analytics — co-creator of the undergraduate course (2024 & 2026 versions), now part of EHE's general-education math & sciences strand. Diversity & Human Rights — designed and updated the EH5010 graduate course for the MA in Humanistic Studies.
+🫆 Course design: Data Science & Cultural Analytics — co-creator of the undergraduate course (2024 & 2026 versions), now part of EHE's general-education mathematics & sciences strand. Diversity & Human Rights — designed and updated the EH5010 graduate course for the MA in Humanistic Studies.
 
-🧑‍🏫 Faculty Whisperer: Leading onboarding and training for incoming HCM faculty across the strategic areas of Digital Humanities & Humanistic Formation; co-coordinator of the regional Jornadas de Humanidades Digitales.
+🧑‍🏫 Faculty development: Leads onboarding and training for incoming HCM faculty across the strategic areas of Digital Humanities and Humanistic Formation; co-coordinator of the regional Jornadas de Humanidades Digitales.
 
-👾 Lvl Up: Specialist in active learning methodologies (PBL) and digital environments that actually work.
+👾 Teaching approach: Specialist in active learning methodologies (PBL) and effective digital learning environments.
 
-🌏 Global Player: Architect of Global Shared Learning (GSL) experiences, designing tech-driven international collaborations that foster multicultural teamwork.
+🌏 International reach: Architect of Global Shared Learning (GSL) experiences, designing tech-driven international collaborations that foster multicultural teamwork.
 
-### Community
+## Community
 
-* 📚 **FIL Guadalajara:** Project Lead & Curator of the institutional presence for Tec de Monterrey (Making culture happen).
-* 🫟 **Equality Advocate:** Co-designer of the 2021–2025 Equality Plan at Tec de Monterrey.
-* 🐕 **Storytelling on the map:** Leading *Perros de raza única*, connecting digital narratives with social action.
+📚 FIL Guadalajara: Project Lead & Curator of Tec de Monterrey's institutional presence.
 
----
+🫟 Equality Advocate: Co-designer of the 2021–2025 Equality Plan at Tec de Monterrey.
+
+🐕 Storytelling on the map: Leading Perros de raza única, connecting digital narratives with social action.
 
 <div align="right">
   
