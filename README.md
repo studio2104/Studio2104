@@ -1,16 +1,17 @@
 # 👋 Welcome to my GitHub
 
-# Digital Vision & Tech-Humanist Era ✨
+## Digital Vision & Tech-Humanist Era ✨
 
-* 📂 **The edit:** Digital Humanities | Gender Equality | Posthumanism | Non-human Animal Rights.
-* 💥 **Current Hyperfocus:** Cultural Analytics & GenAI methodologies for real-world impact projects.
+📂 The edit: Digital Humanities | Gender Equality | Posthumanism | Non-human Animal Rights.
+💥 Current Hyperfocus: Cultural Analytics & GenAI methodologies for real-world impact projects — from classroom innovation to peer-reviewed publication (see the Lidia GPT paper below).
 
-### Education Game-Changer (Tec de Monterrey)
+## Education Game-Changer (Tec de Monterrey)
 
-* ⭐ **High-Key Impact:** Member of the Circle of Distinguished Faculty (since 2023). Assistant Professor at Tec de Monterrey Campus Guadalajara.
-* 🫆 **Blueprint:** Data Science & Cultural Analysis: Co-creator of the undergraduate course (2024 & 2026 versions). Diversity & Human Rights: Designed and updated the EH5010 graduate course for the MA in Humanistic Studies.
-* 👾 **Lvl Up:** Specialist in active learning methodologies (PBL) and digital environments that actually work.
-* 🌏 Global Player: Architect of Global Shared Learning (GSL) experiences, designing tech-driven international collaborations that foster multicultural teamwork.
+⭐ High-Key Impact: Member of the Circle of Distinguished Faculty (since 2023). Assistant Professor at Tec de Monterrey Campus Guadalajara. Certified in Digital Humanities by Universidad de los Andes.
+🫆 Blueprint: Data Science & Cultural Analytics — co-creator of the undergraduate course (2024 & 2026 versions), now part of EHE's general-education math & sciences strand. Diversity & Human Rights — designed and updated the EH5010 graduate course for the MA in Humanistic Studies.
+🧑‍🏫 Faculty Whisperer: Leading onboarding and training for incoming HCM faculty across the strategic areas of Digital Humanities & Humanistic Formation; co-coordinator of the regional Jornadas de Humanidades Digitales.
+👾 Lvl Up: Specialist in active learning methodologies (PBL) and digital environments that actually work.
+🌏 Global Player: Architect of Global Shared Learning (GSL) experiences, designing tech-driven international collaborations that foster multicultural teamwork.
 
 ### Community
 
